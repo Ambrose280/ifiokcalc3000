@@ -34,7 +34,7 @@ while True:
          print(num1, "-", num2, "=", subtract(num1, num2))
          break
    elif choice == "3":
-         print(num1, "+", num2, "=", mult(num1, num2))
+         print(num1, "*", num2, "=", mult(num1, num2))
          break
    elif choice == "4":
          print(num1, "/", num2, "=", div(num1, num2))
